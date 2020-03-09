@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 5c8837448ff554f45af753fb38a50797
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: axle back
+    100004: axle front
+    100006: axle mid
+    100008: BASE
+    100010: body
+    100012: body_end
+    100014: Bone.002
+    100016: Bone.003
+    100018: Bone.004
+    100020: Bone.005
+    100022: Bone.006
+    100024: Bone.007
+    100026: //RootNode
+    100028: Head
+    100030: left_wheel.1
+    100032: left_wheel.1_end
+    100034: left_wheel.2
+    100036: left_wheel.2_end
+    100038: left_wheel.3
+    100040: left_wheel.3_end
+    100042: right.wheel.1
+    100044: right.wheel.1_end
+    100046: right.wheel.2
+    100048: right.wheel.2_end
+    100050: right.wheel.3
+    100052: right.wheel.3_end
+    100054: Screen
+    100056: Screenglass
+    100058: wheel
+    100060: wheel.001
+    100062: wheel.002
+    100064: wheel.003
+    100066: wheel.004
+    100068: wheel.005
+    400000: Armature
+    400002: axle back
+    400004: axle front
+    400006: axle mid
+    400008: BASE
+    400010: body
+    400012: body_end
+    400014: Bone.002
+    400016: Bone.003
+    400018: Bone.004
+    400020: Bone.005
+    400022: Bone.006
+    400024: Bone.007
+    400026: //RootNode
+    400028: Head
+    400030: left_wheel.1
+    400032: left_wheel.1_end
+    400034: left_wheel.2
+    400036: left_wheel.2_end
+    400038: left_wheel.3
+    400040: left_wheel.3_end
+    400042: right.wheel.1
+    400044: right.wheel.1_end
+    400046: right.wheel.2
+    400048: right.wheel.2_end
+    400050: right.wheel.3
+    400052: right.wheel.3_end
+    400054: Screen
+    400056: Screenglass
+    400058: wheel
+    400060: wheel.001
+    400062: wheel.002
+    400064: wheel.003
+    400066: wheel.004
+    400068: wheel.005
+    2100000: body
+    2100002: power
+    2100004: screen
+    2100006: Material.001
+    2100008: axle
+    2100010: steel
+    4300000: Head
+    4300002: Screen
+    4300004: Screenglass
+    4300006: wheel
+    4300008: wheel.005
+    4300010: wheel.004
+    4300012: wheel.003
+    4300014: wheel.002
+    4300016: wheel.001
+    4300018: axle front
+    4300020: axle mid
+    4300022: axle back
+    9500000: //RootNode
+    13700000: axle back
+    13700002: axle front
+    13700004: axle mid
+    13700006: Head
+    13700008: Screen
+    13700010: Screenglass
+    13700012: wheel
+    13700014: wheel.001
+    13700016: wheel.002
+    13700018: wheel.003
+    13700020: wheel.004
+    13700022: wheel.005
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
