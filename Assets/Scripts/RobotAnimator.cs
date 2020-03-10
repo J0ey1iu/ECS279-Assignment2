@@ -5,24 +5,23 @@ using UnityEngine;
 public class RobotAnimator : MonoBehaviour
 {
 
-    private Animator animator;
-    private bool isAnimating = false;
-    // Start is called before the first frame update
+    public GameObject Robot;
+
     void Start()
     {
-        animator = GetComponent("RobotAnimator") as Animator;
+        Robot.SetActive(true);
+        print("Robot is set active. \n");
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !isAnimating) {
-            animator.SetBool("isAnimating", true);
-            isAnimating = true;
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            print("Space is pushed. \n");
+            Robot.GetComponent<Animator>().Play("jump");
         }
-        if (Input.GetKeyDown(KeyCode.Space) && isAnimating) {
-            animator.SetBool("isAnimating", false);
-            isAnimating = false;
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) {
+            print("Forward is pushed. \n");
+            Robot.GetComponent<Animator>().Play("walk");
         }
     }
 }
